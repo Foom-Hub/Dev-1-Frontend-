@@ -1,0 +1,12 @@
+h1 {
+    font-size: x-large;
+    font-family: 'Segoe UI';
+    color: red;
+    font : bold;
+}
+
+body {
+    padding: 2px 0 0 50px;
+    font-family: 'Segoe UI';
+
+}
